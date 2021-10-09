@@ -35,7 +35,7 @@ pip install torchvision
 Please note that GPU is being used to train and run the code. 
 
 
-## File<a name="files"></a>
+## Files<a name="files"></a>
 
 The `landmark.ipynb` notebook available here contained all the codes.  
 
@@ -53,6 +53,7 @@ You can find license information for the full dataset on [Kaggle](https://www.ka
 ## Screenshots<a name="screenshots"></a>
 1. This is an example of testing the Deep Learning model to predict the top 3 most likely landmarks
 
-![Sample Input](screenshots/sample0.PNG)
+![Sample Input1](screenshots/sample0.PNG)
 
+![Sample Input2](screenshots/sample1.PNG)
 
