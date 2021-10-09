@@ -40,7 +40,7 @@ Please note that GPU is being used to train and run the code.
 The `landmark.ipynb` notebook available here contained all the codes.  
 
 The landmark images used for this project are a subset of the Google Landmarks Dataset v2. The dataset used for this project is quite large and can be downloaded by following this [link](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip).
-Unzip the folder and place it in this project's home directory, at the location /images:
+Unzip the folder and place it in this project's home directory, at the location `/data/landmark_images/`:
 
 You can find license information for the full dataset on [Kaggle](https://www.kaggle.com/google/google-landmarks-dataset).
 
