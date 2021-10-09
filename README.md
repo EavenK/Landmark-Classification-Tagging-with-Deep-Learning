@@ -6,7 +6,9 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [File Descriptions](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [License](#license)
+5. [Screenshots](#screenshots)
+
 
 
 ## Description<a name="description"></a>
@@ -43,8 +45,14 @@ Unzip the folder and place it in this project's home directory, at the location 
 You can find license information for the full dataset on [Kaggle](https://www.kaggle.com/google/google-landmarks-dataset).
 
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Feel free to use the code there as you would like! 
+## License<a name="license"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## Screenshots<a name="screenshots"></a>
+1. This is an example of testing the Deep Learning model to predict the top 3 most likely landmarks
+
+![Sample Input](screenshots/sample0.PNG)
 
 
