@@ -5,7 +5,7 @@
 
 1. [Description](#description)
 2. [Installation](#installation)
-3. [File Descriptions](#files)
+3. [Files](#files)
 4. [License](#license)
 5. [Screenshots](#screenshots)
 
@@ -35,7 +35,7 @@ pip install torchvision
 Please note that GPU is being used to train and run the code. 
 
 
-## File Descriptions <a name="files"></a>
+## File<a name="files"></a>
 
 The `landmark.ipynb` notebook available here contained all the codes.  
 
