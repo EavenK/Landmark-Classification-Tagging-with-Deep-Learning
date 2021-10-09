@@ -57,3 +57,4 @@ You can find license information for the full dataset on [Kaggle](https://www.ka
 
 ![Sample Input2](screenshots/sample1.PNG)
 
+![Sample Input3](screenshots/sample2.PNG)
