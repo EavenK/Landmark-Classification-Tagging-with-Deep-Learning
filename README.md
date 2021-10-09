@@ -12,7 +12,7 @@
 ## Description<a name="description"></a>
 
 In this project, I trained a deep learning model using Pytorch to detect and classify landmarks.
-Basically, I will:
+Basically, I have:
 
 1) Create a CNN to Classify Landmarks (from Scratch)
 2) Create a CNN to Classify Landmarks (using Transfer Learning)
